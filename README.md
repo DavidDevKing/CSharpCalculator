@@ -11,6 +11,7 @@ Application for evaluating mathematical expressions written in C#. Supports:
 - **Subtraction** - -
 - **Multiplication** - *
 - **Division** - /
+- **Exponent** - ^
 
 ## Getting started
 
